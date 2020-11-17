@@ -8,7 +8,7 @@ Apache2 Php Phpmyadmin Phpmysql Mariadbserver
 Search apmss then click install thats it!
 # via terminal
 ```
-wget -O - https://raw.githubusercontent.com/oxmc/apmss/master/install | bash
+wget -O - https://raw.githubusercontent.com/oxmc/apmss/main/install.sh | bash
 ```
 That's it!
 # Version
