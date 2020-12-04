@@ -6,8 +6,8 @@ can be installed via <!-- Botspot's pi-apps <a class="github-button" href="https
 # Inluded packages
 Apache2 Php Phpmyadmin Phpmysql Mariadbserver
 # Installation
-# via pi-apps
-Scroll down untill you see APMSS click on it, then click install that's it.
+<!--# via pi-apps
+Scroll down untill you see APMSS click on it, then click install that's it.-->
 # Installation
 ```
 wget -O - https://raw.githubusercontent.com/oxmc/apmss/main/install.sh | bash
@@ -16,8 +16,8 @@ That's it!
 # Version
 ![version badge image](https://img.shields.io/badge/version-beta-brightgreen)
 # Example sites
-To use the examples put the files that are in the folder of the example you want to use in the /var/www/html directory and go to <a class="github-button" href="https://github.com/oxmc/apmss/examples/php/echobrowsertype.php" data-icon="logo.jpg" aria-label="link">Localhost or your pi's ip address </a>
-to get your pi's ip address open terminal and type ```hostname -I``` Or if you want toput that ip address into a text file use this command in a terminal ```echo "Ip address is: $(hostname -I)" ```
+To use the examples put the files that are in the folder of the example you want to use in the /var/www/html directory and go to <a class="github-button" href="localhost" data-icon="logo.jpg" aria-label="link">Localhost</a> or your pi's ip address,
+To get your pi's ip address open terminal and type ```hostname -I``` Or if you want to put that ip address into a text file use this command in a terminal ```ip = "hostname -I" && echo "Ip address is: $ip" && echo "$ip" >> /home/pi/ip_address.txt```
 
 <a class="github-button" href="https://github.com/oxmc/apmss/examples/php/echobrowsertype.php" data-icon="logo.jpg" aria-label="link">Php site</a>
 
