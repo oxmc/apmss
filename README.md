@@ -2,7 +2,7 @@
 Still a work in progress.
 # apmss stands for ApachePhpMariadbSqlServer
 this is a website server to be run on a raspberry pi board running raspberry pi os graphical version.
-can be installed via <!-- Botspot's pi-apps <a class="github-button" href="https://github.com/Botspot/pi-apps" data-icon="logo.jpg" aria-label="link">Here</a> or  --> terminal.
+can be installed via <!-- Botspot's pi-apps <a class="github-button" href="https://github.com/Botspot/pi-apps" data-icon="logo.jpg" aria-label="link">Here</a> or --> terminal.
 # Inluded packages
 Apache2 Php Phpmyadmin Phpmysql Mariadbserver
 # Installation
