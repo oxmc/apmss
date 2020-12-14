@@ -8,7 +8,6 @@ Apache2 Php Phpmyadmin Phpmysql Mariadbserver
 # Installation
 <!--# via pi-apps
 Scroll down untill you see APMSS click on it, then click install that's it.-->
-# Installation
 ```
 wget -O - https://raw.githubusercontent.com/oxmc/apmss/main/install.sh | bash
 ```
